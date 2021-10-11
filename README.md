@@ -1,0 +1,4 @@
+- Hi, I’m Gabriel Illanes (@gabriel-illanes)
+- Currently working at Centro de Matemática, Facultad de Ciencias, Universidad de la República, Uruguay.
+- Interested in applied statistics, data science, machine learning and programming.
+- gillanes@cmat.edu.uy
